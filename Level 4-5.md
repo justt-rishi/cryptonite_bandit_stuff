@@ -1,5 +1,6 @@
 # Level 4-5
-In this challenge we had to go into inhere file and there were 8-9 files with only one of them having the human readalble password which was -file07.
+In this challenge we had to go into inhere file and there were 8-9 files with only one of them having the human readalble password which was -file07. Also in this challenge
+I learnt about the reset command which resets the whole terminal.
 ## Command line
 ```
 bandit4@bandit:~$ ls inhere
